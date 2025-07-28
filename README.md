@@ -135,6 +135,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   
 ## Writing
 
+- [AI Automation tool](https://contentstudio.io/)
+- **Tags**: 'social media management', 'content marketing', 'social media scheduling ', ' social media automation ', 'content calendar'
+- **Pricing**: Freemium, Paid
+- **Contact**: https://x.com/contentstudioio
+
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
   - **Tags**: `Free` `AI` `Joke` `Humor` `Writing`
   - **Pricing**: Free
